@@ -39,4 +39,4 @@ If you found our work useful, please cite our paper:
 
 ## <a name="license"></a> 📝 License
 
-This work is protected by [CC BY-NC-ND 4.0 License (Non-Commercial & No Derivatives)](LICENSE)
+This work is protected by [Attribution-NonCommercial 4.0 International](LICENSE)
