@@ -17,7 +17,12 @@
 In this work, we present **RoCode**, a competitive programming dataset, consisting of 2,642 problems written in Romanian, 11k solutions in C, C++ and Python and comprehensive testing suites for each problem.
 
 ## <a name="tldr"> </a> TL;DR 
-<div> </div>
+<div>
+  [📜 Arxiv Link](https://arxiv.org/abs/2402.13222)
+</div>
+
+**RoCode** is a dataset of programming puzzles with problem statements in Romanian for evaluation of LLM code intelligence. Leetcode, but for Romanian.
+
 
 ## <a name="intro"></a> 📘 Abstract
 
@@ -26,7 +31,7 @@ _Recently, large language models (LLMs) have become increasingly powerful and ha
 ## <a name="citation"></a> 📖 Citation
 If you found our work useful, please cite our paper:
 
-[RoCode: A Dataset for Measuring Code Intelligence from Problem Definitions in 🇷🇴 Romanian 🇷🇴]()
+[RoCode: A Dataset for Measuring Code Intelligence from Problem Definitions in 🇷🇴 Romanian 🇷🇴](https://arxiv.org/abs/2402.13222)
 
 ```
 @InProceedings{cosma24rocode,
