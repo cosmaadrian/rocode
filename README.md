@@ -18,8 +18,10 @@ In this work, we present **RoCode**, a competitive programming dataset, consisti
 
 ## <a name="tldr"> </a> TL;DR 
 <div>
-  
-  [📜 Arxiv Link](https://arxiv.org/abs/2402.13222)
+  <div align="center">
+    
+  [📜 Arxiv Link](https://arxiv.org/abs/2402.13222) | [🤗 Huggingface Dataset](https://huggingface.co/datasets/cosmadrian/rocode)
+  </div>
 </div>
 
 **RoCode** is a dataset of programming puzzles with problem statements in Romanian for evaluation of LLM code intelligence. Leetcode, but for Romanian.
